@@ -1,5 +1,5 @@
 # SpringBootIn50
-Sourcecode for https://www.youtube.com/watch?v=Ke7Tr4RgRTs
+Source code for https://www.youtube.com/watch?v=Ke7Tr4RgRTs
 
 # Instructions
 1. Open pom.xml with Intelij or Eclipse
